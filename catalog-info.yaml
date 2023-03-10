@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: animal-rescue
+  annotations:
+    github.com/project-slug: tfynes-pivotal/animal-rescue
+spec:
+  type: other
+  lifecycle: unknown
+  owner: default-org
